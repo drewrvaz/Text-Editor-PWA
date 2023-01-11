@@ -10,6 +10,8 @@
 * [Questions](#questions)
 ## Description
 I wanted to create notes/code snippets with or without an internet connection. This way I can reliably retrieve them for later use. In order to build this project, I used javascript, and webpack. This is a progressive web app. The link to the deployed application is: https://lit-gorge-86290.herokuapp.com/
+![lit-gorge-86290 herokuapp com_](https://user-images.githubusercontent.com/108427880/211893857-790b0595-cd1e-4129-a879-d41ae2a4a1cc.png)
+
 ## Installation
 In order to install the project, clone the repository from github, Then run npm install to install all of the required dependencies for the project to work.
 ## Usage
